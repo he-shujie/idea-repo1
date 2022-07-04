@@ -7,6 +7,7 @@ public class HelloJava {
         System.out.println("Hi");
         System.out.println("java");
         System.out.println("IDEA集成GIT");
+        System.out.println("可以休息一下");
     }
 
     public void test(){
