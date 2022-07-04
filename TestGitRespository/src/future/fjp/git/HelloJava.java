@@ -9,7 +9,7 @@ public class HelloJava {
     }
 
     public void test(){
-        int a = 10;
-        int b = 9;
+        int a = 99;
+        int b = 100;
     }
 }
