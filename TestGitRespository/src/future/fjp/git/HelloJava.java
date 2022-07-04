@@ -11,5 +11,6 @@ public class HelloJava {
     public void test(){
         int a = 99;
         int b = 100;
+        int ab =a+b;
     }
 }
